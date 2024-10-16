@@ -1,0 +1,123 @@
+{
+  "name": "Alex MacIntosh",
+  "contact": {
+    "phone": "+1 289.253.4104",
+    "email": "alexander.macintosh@gmail.com",
+    "links": {
+      "Google Scholar": "[Google Scholar Link]",
+      "LinkedIn": "[LinkedIn Link]",
+      "GitHub": "[GitHub Link]"
+    }
+  },
+  "skills": [
+    "Builds academic-industry partnerships",
+    "Mentoring",
+    "Scientific communication",
+    "Data analytics and methodological research",
+    "Statistical modeling",
+    "Visualization",
+    "Natural language processing"
+  ],
+  "experience": [
+    {
+      "title": "Senior Research Manager",
+      "company": "Acuity Insights",
+      "years": "JAN 2020 - PRESENT",
+      "location": "TORONTO",
+      "responsibilities": [
+        "Oversee Scientists conducting predictive modeling, reliability-validity analyses, and natural language processing studies in Python and R to evaluate equitable assessments for Higher Education.",
+        "Manage 41 research engagements with academic collaborators resulting in 23 conference presentations, 5 manuscript submissions, and 31 Continuous Quality Improvement (CQI) consultation reports.",
+        "Administer, distribute, and support $100,000 annual grant for research in education selection.",
+        "Obtained $90,000 in Mitacs funding across three projects."
+      ]
+    },
+    {
+      "title": "Researcher",
+      "company": "Bloorview Research Institute",
+      "years": "SEPT 2014 - DEC 2019",
+      "location": "TORONTO",
+      "responsibilities": [
+        "Work directly with faculty and clinicians developing rehabilitation technologies.",
+        "Designed, built and implemented a ‘Biofeedback enhanced, active video games for kids with cerebral palsy’.",
+        "Conducted feature engineering and data processing turning biosignal data into rehabilitation games  (MATLAB, R, Python), improving mobility by 12% and strength by 18% in children with disabilities.",
+        "Conducted regular user-design sessions and in-home evaluations in France and Canada with clients, clinicians, and scientists for new health technologies.",
+        "Led academic and community publication, overseeing researcher staff and students during development resulting in 10 academic publications, 10 community engagements, and 9 conference presentations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD, Biomedical Engineering, Dual Degree",
+      "university": "University of Toronto",
+      "years": "SEP 2016 - DEC 2019",
+      "location": "TORONTO"
+    },
+    {
+      "degree": "PhD, Motor Control, Dual Degree",
+      "university": "Université Paris-Saclay",
+      "years": "SEP 2016 - DEC 2019",
+      "location": "PARIS, FRA"
+    },
+    {
+      "degree": "MSc, Kinesiology",
+      "university": "McMaster University",
+      "years": "SEP 2012 - AUG 2014",
+      "location": "HAMILTON"
+    },
+    {
+      "degree": "BSc Kinesiology",
+      "university": "University of Waterloo",
+      "years": "SEP 2007 - JUN 2012",
+      "location": "WATERLOO"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Doctoral Research Award",
+      "organization": "Canadian Institutes of Health Research",
+      "amount": "$105 000",
+      "years": "2016-2019"
+    },
+    {
+      "name": "Peterborough Hunter Foundation Award",
+      "organization": "University of Toronto",
+      "amount": "$25 000",
+      "years": "2018"
+    },
+    {
+      "name": "GlobaLink Research Award",
+      "organization": "Mitacs",
+      "amount": "$6 000",
+      "years": "2018"
+    },
+    {
+      "name": "Michael Smith Foreign Study Supplement",
+      "organization": "Canadian Institutes of Health Research",
+      "amount": "$6 000",
+      "years": "2018"
+    },
+    {
+      "name": "Bourses d'Excellence Eiffel",
+      "organization": "Campus France",
+      "amount": "€15 000",
+      "years": "2017"
+    }
+  ],
+  "patents": [
+    {
+      "name": "Computer System and Method for Cognitive Tests for Scalable Precision Education",
+      "organization": "Acuity Insights",
+      "year": "2024"
+    },
+    {
+      "name": "Natural Language Processing for Quality Assurance for Constructed-Response Tests",
+      "organization": "Altus Assessments",
+      "year": "2022"
+    },
+    {
+      "name": "Ability-based balancing for Exercise Video Games",
+      "organization": "Bloorview Research Institute",
+      "year": "2016"
+    }
+  ]
+}
